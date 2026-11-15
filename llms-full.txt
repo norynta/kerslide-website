@@ -1,0 +1,732 @@
+# Kerslide
+
+> Kerslide is a free, calm block puzzle that runs in the browser. You place pieces on an 8×8 board; every time you clear a line the whole board shifts: right after a row clear, down after a column clear. Blocks pushed off the edge are gone. No download, no sign-up, no timers or lives.
+
+Play: https://kerslide.com/play/ (about 4 MB to load, works on phone, tablet and desktop, installable as a web app). Progress is stored on the device.
+
+## Modes
+- Classic: play for a high score until no piece fits.
+- Daily Challenge: the same starting position for every player each day, with a streak.
+- Levels: gem puzzles on prepared boards (999 levels). Remove every gem by clearing its line or shifting it off the edge. Stars: 3 within par moves, 2 within twice par, 1 for any win.
+
+## Facts
+- Board: 8×8. Hand of 3 pieces; pieces do not rotate.
+- Scoring: 1 point per placed block, 100 per cleared line, with multipliers for several lines at once and for consecutive clears (combo up to 400%).
+- Languages (15): English, German, Spanish, French, Italian, Portuguese, Polish, Turkish, Indonesian, Vietnamese, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese.
+- Accessibility: colorblind-friendly shapes, high contrast, reduced motion, larger text.
+- Also on itch.io and Game Jolt. Developer: Kerslide.
+
+## Pages
+- [Home](https://kerslide.com/): overview, FAQ
+- [How to play](https://kerslide.com/how-to-play/): rules, the shift, scoring basics
+- [Strategy tips](https://kerslide.com/tips/): planning around the right and down shift
+- [Levels mode](https://kerslide.com/levels/): gems, par and stars
+- [Press kit](https://kerslide.com/press.html): screenshots, logo, facts
+- [Support](https://kerslide.com/support.html)
+- Localized home pages: https://kerslide.com/de/, /es/, /fr/, /it/, /pt/, /pl/, /tr/, /id/, /vi/, /ru/, /ja/, /ko/, /zh-hans/, /zh-hant/, /hi/ (Hindi), /ar/ (Arabic), /th/ (Thai), /bn/ (Bengali), /fil/ (Filipino), /ms/ (Malay), /nl/ (Dutch), /uk/ (Ukrainian). The game UI itself is in the 15 languages listed above; the extra home pages describe it in more languages.
+
+---
+# Full page content
+
+
+## Kerslide — free block puzzle: clear a line, the whole board shifts
+Source: https://kerslide.com/
+### Clear a line. The whole board shifts.
+A calm block puzzle with one twist. Fill a row and every block slides one step right. Fill a column and everything slides down. Blocks pushed off the edge are gone.
+Also on Microsoft Store (Windows) · itch.io · Game Jolt · iPhone version coming On Android? Join the free Google Play beta
+
+#### How it works
+Drag pieces onto the 8×8 board.
+Complete a row or a column and it clears.
+Then the whole board shifts — right for rows, down for columns. Blocks pushed off the edge are gone.
+Keep going until no piece fits. Beat your best.
+Try it — it takes 10 seconds to learn
+Want the full rules or a few strategy ideas? Read how to play and the tips .
+
+#### Made to be calm
+- No timers, no lives Think as long as you like. Nothing is rushing you.
+- See every shift first Before you drop a piece, the board shows which lines clear and which way everything moves.
+- Daily challenge The same start for everyone, every day.
+- Daily goals Three new goals every day. Finish all three to keep your streak going.
+- Levels Gem puzzles that get harder as you go: clear a gem's line or shift it off the edge. Earn up to three stars each. About Levels
+- Plays anywhere Phone, tablet or computer — touch, mouse or keyboard. About 4 MB to start, no account: progress stays on your device.
+- Accessible Colorblind-friendly shapes, high contrast, reduced motion, larger text.
+
+#### Questions
+Kerslide is a free block puzzle for your browser. You place pieces on an 8×8 board, and every time you clear a line the whole board shifts: right after a row, down after a column.
+Yes, it is free. There is nothing to download and no account to create. Open the page and play on your phone, tablet or computer. Your progress stays on your device.
+They are gone. That is what makes the shift matter: a clear can open space, or wreck the line you were building. The board shows the result before you drop a piece.
+No. There are no timers and no lives, so you can think as long as you like. There is also a daily challenge with the same start for everyone.
+It runs in any modern browser on phone, tablet and desktop, and loads about 4 MB to start. Add it to your home screen for one-tap access.
+15: English, German, Spanish, French, Italian, Portuguese, Polish, Turkish, Indonesian, Vietnamese, Russian, Japanese, Korean, Simplified and Traditional Chinese.
+15 languages: English, Deutsch, Español, Français, Italiano, Português, Polski, Türkçe, Bahasa Indonesia, Tiếng Việt, Русский, 日本語, 한국어, 简体中文, 繁體中文. The game follows your device or browser language; change it any time in Settings.
+English · Deutsch · Español · Français · Italiano · Português · Polski · Türkçe · Bahasa Indonesia · Tiếng Việt · Русский · 日本語 · 한국어 · 简体中文 · 繁體中文 · हिन्दी · العربية · ไทย · বাংলা · Filipino · Bahasa Melayu · Nederlands · Українська
+
+
+## How to play Kerslide: rules of the shifting block puzzle
+Source: https://kerslide.com/how-to-play/
+Kerslide › How to play Kerslide
+
+### How to play Kerslide
+Kerslide is a block puzzle on an 8×8 board with one twist: every line you clear moves the rest of the board. This page covers the rules in the order you will meet them.
+▶ Play free In your browser · no download · no sign-up
+
+#### The goal
+Place pieces on the board for as long as you can. The game ends when none of the pieces you are holding fits anywhere. There is no timer and no lives, so take as long as you like to decide each move.
+
+#### 1. Place pieces
+You always hold a hand of three pieces. Drag one onto the board (touch, mouse or keyboard). Pieces never rotate, so the shape you see is the shape you place. Once all three are used, a new hand arrives.
+
+#### 2. Fill a row or a column to clear it
+When every cell of a row (or a column) is filled, that line clears and its blocks disappear.
+
+#### 3. Then the whole board shifts
+This is what makes Kerslide different:
+- Clear a row and every remaining block slides one step right .
+- Clear a column and every remaining block slides one step down .
+- Blocks pushed past the edge of the board are gone .
+A shift can open space, but it can also break up a line you were building. Before you drop a piece, the board previews which lines will clear and which way everything will move, so you can see the result first.
+
+#### Scoring basics
+Points come from two places:
+- 1 point for every block you place.
+- 100 points for every line you clear. Clearing several lines with one piece multiplies that: the line points count 150% for two lines, 200% for three, 250% for four and 300% for five or more.
+- Combos: clearing on consecutive placements raises the multiplier by 50% per extra clear, up to 400%. A combo survives two placements in a row that clear nothing.
+Your best score is saved on your device. There is also a Daily Challenge that starts every player from the same position, with a streak counter, and a Levels mode with gem puzzles.
+
+#### Ready?
+The first game is the tutorial and takes about ten seconds to learn. When you want to play better, read the strategy tips .
+▶ Play free now
+Also: In-depth guides · Tips · Levels
+
+
+## Kerslide tips: strategy for the shifting board
+Source: https://kerslide.com/tips/
+Kerslide › Kerslide strategy tips
+
+### Kerslide strategy tips
+In most block puzzles a cleared line only frees up space. In Kerslide it also moves everything else, so good play means thinking one step ahead about where the blocks will end up. These tips build on the basic rules .
+▶ Play free In your browser · no download · no sign-up
+
+#### Why clears move the board
+The shift is the whole game. A cleared row pushes every remaining block one cell to the right; a cleared column pushes every block one cell down. Whatever is pushed past the right or bottom edge disappears. Over time the blocks drift toward the bottom-right corner, and the top-left is where new room appears.
+
+#### Preview before you drop
+Kerslide shows which lines will clear and which way the board will move before you let go of a piece. Use it every time you place a piece that completes a line, because the position after the shift is what you actually have to play from.
+
+#### Plan for the right and down shift
+Because rows shift right and columns shift down, a block that is one cell short of a line today may not be tomorrow. Before clearing, ask which of your half-built lines will still be intact after the shift. A line that is nearly full in the middle of the board can be pushed apart by a column clear, while two rows built next to each other keep their relative shape when a row clears, since everything moves together.
+
+#### Keep the top-left clear
+Pieces have to land somewhere, and blocks keep drifting away from the top-left. Leaving that region open gives you room for large pieces and room for the board to move into. A board that is crowded in the top-left leaves you fewer places to put a long piece, which is how most games end.
+
+#### Use shifts to push blocks off the edge
+The edge is a tool. Blocks on the right column leave the board when a row clears, and blocks on the bottom row leave when a column clears. If you have a few awkward leftover blocks near the right or bottom edge, a well-timed clear gets rid of them for free. The same idea is the core of Levels mode , where you remove gems this way.
+
+#### Think about the whole hand
+You hold three pieces at once and can place them in any order. Check whether a different order lets one piece prepare a line for the next, and whether the shift after the first clear changes where the second piece should go.
+
+#### Chain clears for combos
+Consecutive clearing placements build a combo multiplier, and it survives two placements that clear nothing. Setting up a line, placing a safe filler piece and then finishing the line keeps a combo alive. Clearing two or more lines with one piece also scores more per line.
+Mistakes are cheap: there is no timer, so stopping to think costs nothing.
+▶ Play free now
+Also: In-depth guides · How to play · Levels
+
+
+## Kerslide Levels: gem puzzles on the shifting board
+Source: https://kerslide.com/levels/
+Kerslide › Kerslide Levels mode
+
+### Kerslide Levels mode
+Levels is the puzzle mode of Kerslide. Instead of chasing a score, you start from a prepared board with a few gems on it, and your job is to remove every gem.
+▶ Play free In your browser · no download · no sign-up
+
+#### What Levels mode is
+Each level is a ready-made board with some blocks marked as gems. You place the pieces you are given using the normal rules : clear rows and columns, and the board shifts right or down afterwards. The level is won when no gems are left.
+
+#### How gems leave the board
+- Clear its line. If a gem sits in a row or column you complete, it is removed with the line.
+- Shift it off the edge. A clear moves every block, gems included. A gem pushed past the right or bottom edge is gone as well.
+Gems near the bottom-right edges are close to leaving, since shifts go right and down. A gem near the top-left has a long way out, so you either complete its line or set up several clears in a row. Later levels place more gems farther from those edges. The tips page explains the shift planning that helps here.
+
+#### Stars
+Every level has a par: the number of moves a reference solver needed to win it. Your stars depend on how many moves you used:
+- 3 stars : within par.
+- 2 stars : within twice par.
+- 1 star : any win.
+Retrying is free, and the game keeps your best result for each level.
+
+#### Progress and difficulty
+There are 999 levels, and each one is the same for every player. A level opens once the one before it is won. Early levels have a single gem and a sparse board; later ones add more gems and more blocks, up to seven gems. Each level was checked to be winnable with the pieces it gives you.
+
+#### Try it
+Open the game and choose Levels from the menu. Your progress is saved on your device.
+▶ Play free now
+Also: How to play · Tips
+
+
+## Kerslide guides: rules, scoring, pieces and strategy
+Source: https://kerslide.com/guides/
+Kerslide › Guides
+
+### Kerslide guides
+Everything about Kerslide in one place, from the exact rules to advanced strategy.
+▶ Play free In your browser · no download · no sign-up
+Kerslide is quick to learn, but the shifting board hides a lot of depth. These guides cover the rules in detail, the exact scoring numbers, every piece, and strategy for endless mode, Levels mode and the Daily Challenge. New to the game? Start with How to play , then read the shift rule guide.
+
+#### Rules and numbers
+- The shift rule, explained with pictures How every clear moves the board, with before-and-after diagrams.
+- Scoring and combos: the exact numbers The exact scoring formula, multi-line and combo tables, worked examples.
+- All 24 pieces: odds and placement All 24 pieces, how often each is dealt, and where each fits best.
+
+#### Strategy
+- 8 beginner mistakes and how to fix them Eight habits that cost new players points, and the fix for each.
+- How to survive when the board is full How to get out of a crowded board and keep the game going.
+- Levels mode: clear the gems, earn three stars Removing gems, the difficulty curve up to level 999, and earning three stars.
+- Daily Challenge and daily goals The shared daily game, the three daily goals and a five-minute routine.
+
+#### Background
+- A short history of block puzzles From polyominoes and Tetris to place-anywhere grid puzzles and Kerslide.
+Looking for quick advice instead? See the short tips page .
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## 8 beginner mistakes in Kerslide (and how to fix them)
+Source: https://kerslide.com/guides/beginner-mistakes.html
+Kerslide › Guides › Beginner mistakes
+
+### 8 beginner mistakes and how to fix them
+Habits from other block puzzles can cost you in Kerslide. Here are the most common ones and what to do instead.
+▶ Play free In your browser · no download · no sign-up
+Kerslide looks like a familiar block puzzle, so new players often bring habits that work in other games and backfire here. These are the eight mistakes we see most, with the fix for each.
+
+#### 1. Ignoring where the board moves
+In most block games a clear just frees space. In Kerslide the whole board moves one cell right after a row clear and one cell down after a column clear. Players who forget this finish a row and then discover their nearly complete column has been pushed next to the wrong blocks. Fix: before every clear, glance at the preview and ask where your other half-built lines will end up. The shift rule guide shows it with pictures.
+
+#### 2. Building in the top-left corner
+It feels natural to start in the top-left. But that is the corner the board moves away from, which makes it the best reserve space on the board. Fix: place non-clearing pieces toward the right and bottom, and keep the top-left open for long pieces.
+
+#### 3. Treating the edges as walls
+The right and bottom edges are exits. A block on the last column leaves the board with the next row clear. Fix: when you have stray blocks along an edge, plan a clear in the matching direction and let the shift remove them for free.
+
+#### 4. Placing the easy piece first
+Small pieces fit almost anywhere, large ones do not. Placing two small pieces first can leave nowhere for the big corner. Fix: find a spot for your hardest piece before placing the others.
+
+#### 5. Letting the combo drop
+Your combo multiplier survives two placements that clear nothing, and resets on the third. Players often lose a combo they could have kept with one small clear. Fix: count your quiet moves. See the exact numbers in scoring and combos .
+
+#### 6. Leaving one-cell holes
+A lone empty cell can only be filled by the single-block piece, and that piece is dealt roughly once in 67 draws. Fix: prefer placements that leave gaps two or three cells long.
+
+#### 7. Chasing one huge clear
+Setting up a four-line clear is tempting, but it fills the board while you wait. Steady single and double clears keep the board open, keep the combo alive and score well. Fix: take the clear in front of you unless the bigger one is one move away.
+
+#### 8. Rushing
+There is no timer in Kerslide. Nothing is gained by placing quickly. Fix: drag a piece over two or three spots and watch the preview before letting go.
+
+#### Controls you might have missed
+- Keyboard: keys 1 to 3 pick a piece, the arrow keys move it, Enter places it and Esc pauses.
+- Accessibility: the settings include colorblind-friendly shapes, a high-contrast mode, reduced motion and larger text.
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## Kerslide Daily Challenge and daily goals explained
+Source: https://kerslide.com/guides/daily-challenge.html
+Kerslide › Guides › Daily Challenge
+
+### Daily Challenge and daily goals
+One shared game a day, three small goals, and a streak to keep. Here is how they work.
+▶ Play free In your browser · no download · no sign-up
+Kerslide has two things that reset every day: the Daily Challenge and your three daily goals. Both are optional, both are quick, and both give you a reason to come back for one short game a day.
+
+#### The Daily Challenge
+The Daily Challenge is a normal endless game with one difference: the random seed comes from the date. That means everyone who plays on the same day starts from the same situation and is dealt pieces from the same sequence, so scores are directly comparable. A new challenge starts every day.
+Because the start is shared, the Daily Challenge is the fairest way to compare with a friend. Play it, then send them your score and see who did better on exactly the same game.
+
+#### Tips for the Daily Challenge
+- Play it slowly. You only get one shared start per day, and there is no timer.
+- Remember the opening. If you replay the challenge, the opening pieces usually come in the same order, so you can plan a better start.
+- Score comes from clears. The scoring rules are the same as the normal game; see scoring and combos .
+
+#### Daily goals
+Each day (by UTC time) you get three small goals, picked from a set of goal types and scaled to how far you have played. Possible goals include:
+- clear a number of lines;
+- make a number of clears of two or more lines at once;
+- push a number of blocks off the edge with shifts;
+- reach a target score in one endless or Daily game;
+- play today's Daily Challenge;
+- win a number of levels, or earn a number of stars in Levels mode (once Levels is unlocked).
+Goals count across all your games that day, so they fill up naturally while you play. Completing all three on consecutive days builds a goal streak.
+
+#### Why "push blocks off the edge" is easier than it sounds
+That goal rewards the move that makes Kerslide different. Build up blocks along the right column, then clear any row: every block in the right column leaves the board at once. The same works with the bottom row and a column clear. The shift rule guide shows exactly what happens.
+
+#### A five-minute daily routine
+- Open Kerslide and check your three goals.
+- Play the Daily Challenge once, carefully.
+- If a Levels goal is open, win one or two levels.
+- Finish any remaining goal in a quick endless game.
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## A short history of block puzzle games, from polyominoes to Kerslide
+Source: https://kerslide.com/guides/history-of-block-puzzles.html
+Kerslide › Guides › History of block puzzles
+
+### A short history of block puzzles
+From mathematicians' polyominoes to falling blocks to calm grid puzzles, and the one rule Kerslide adds.
+▶ Play free In your browser · no download · no sign-up
+Kerslide belongs to a family of games that is older than video games: puzzles about fitting shapes made of squares into a grid. Here is a short history of that family, and where Kerslide's twist fits in.
+
+#### Polyominoes: shapes made of squares
+The shapes in block puzzles have a mathematical name: polyominoes , figures made by joining equal squares edge to edge. The term was coined by the mathematician Solomon W. Golomb in 1953, and the shapes became widely known through Martin Gardner's recreational mathematics columns in Scientific American , beginning in 1957. Golomb later collected the subject in his book Polyominoes (1965).
+A domino has two squares, a tromino three, a tetromino four and a pentomino five. Kerslide's pieces are all polyominoes: a single square, the two- and three-square lines, tetrominoes such as the 2×2 square, L, T and S/Z shapes, and the five-square corner (a pentomino often called the V). You can see all of them in the piece guide .
+
+#### Tiling puzzles
+Long before screens, people played with physical sets of these shapes: can you fill a rectangle with all twelve pentominoes? Puzzles like this are about fitting pieces together with no gaps. That idea, fill the space without leaving holes, is still at the heart of every block game.
+
+#### Falling blocks
+In 1984, Alexey Pajitnov created Tetris at the Academy of Sciences in Moscow. It added time pressure and one crucial mechanic: a completed row disappears. Clearing lines to make room became the core loop of an entire genre.
+
+#### Place-anywhere grid puzzles
+Much later, a calmer style became popular on phones: you are given a few pieces, you can place them anywhere on a square grid, and completed rows and columns clear. Games such as 1010! (2014) made this format widely known. There is no gravity and no timer; the challenge is planning, because pieces cannot be rotated and you must always find room for the next ones.
+
+#### Kerslide's twist: the board moves
+Kerslide keeps the calm, place-anywhere format and adds one rule: every clear moves the whole board one cell, right after a row clear and down after a column clear, and blocks pushed past the edge disappear. That small change means:
+- a clear changes the position of every other block, so you think one move ahead;
+- the right and bottom edges become exits, so blocks can leave without being cleared;
+- the board drifts in one direction, so where you place pieces matters, not only whether they fit.
+It is still a puzzle about fitting shapes into a grid, the same question Golomb's polyominoes asked seventy years ago, but with a board that never stays still. Read how the shift works , or just try it.
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## Kerslide guides: rules, scoring, pieces and strategy
+Source: https://kerslide.com/guides/
+Kerslide › Guides
+
+### Kerslide guides
+Everything about Kerslide in one place, from the exact rules to advanced strategy.
+▶ Play free In your browser · no download · no sign-up
+Kerslide is quick to learn, but the shifting board hides a lot of depth. These guides cover the rules in detail, the exact scoring numbers, every piece, and strategy for endless mode, Levels mode and the Daily Challenge. New to the game? Start with How to play , then read the shift rule guide.
+
+#### Rules and numbers
+- The shift rule, explained with pictures How every clear moves the board, with before-and-after diagrams.
+- Scoring and combos: the exact numbers The exact scoring formula, multi-line and combo tables, worked examples.
+- All 24 pieces: odds and placement All 24 pieces, how often each is dealt, and where each fits best.
+
+#### Strategy
+- 8 beginner mistakes and how to fix them Eight habits that cost new players points, and the fix for each.
+- How to survive when the board is full How to get out of a crowded board and keep the game going.
+- Levels mode: clear the gems, earn three stars Removing gems, the difficulty curve up to level 999, and earning three stars.
+- Daily Challenge and daily goals The shared daily game, the three daily goals and a five-minute routine.
+
+#### Background
+- A short history of block puzzles From polyominoes and Tetris to place-anywhere grid puzzles and Kerslide.
+Looking for quick advice instead? See the short tips page .
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## Kerslide Levels mode: how to clear gems and earn 3 stars
+Source: https://kerslide.com/guides/levels-strategy.html
+Kerslide › Guides › Levels strategy
+
+### Levels mode: clear the gems, earn three stars
+Gems leave the board when their line clears or when a shift pushes them off the edge. Here is how to plan for both.
+▶ Play free In your browser · no download · no sign-up
+Levels mode turns Kerslide into a puzzle with a goal. Each level starts with blocks already on the board, and some of those blocks are gems. You win when every gem is gone. This guide explains how gems leave the board, how levels get harder, and how to earn three stars.
+
+#### Two ways to remove a gem
+- Clear its line. If a gem sits in a row or column that you complete, it is removed with the rest of the line.
+- Push it off the board. After any row clear, the whole board moves one cell right; after any column clear, it moves one cell down. A gem in the last column leaves with the next row clear, and a gem in the bottom row leaves with the next column clear. This is often the quicker route.
+The second way is what makes Levels mode different from other gem puzzles: you often remove a gem without ever filling its line, simply by clearing a different line at the right moment. See the shift rule with pictures .
+
+#### Reading a level
+- Gems near the bottom-right are cheap. One or two clears in the right direction push them out.
+- Gems near the top-left are expensive. They have the longest way to travel, so you usually need to clear their line directly, or clear several lines in a row to walk them to the edge.
+- Count the moves each gem needs. A gem three cells from the right edge needs three row clears to leave that way. If its own row is half full, finishing that row may be faster.
+
+#### How the difficulty grows
+Levels are generated from their number, so everyone plays the same level 12. Every level is played by the game's solver before you see it, and only boards the solver can win are used, so every level is solvable . The difficulty climbs in three ways:
+- 1
+- 8
+- 4
+- 2
+- 10
+- 6
+- 7
+- 3
+- 12
+- 8
+- 10
+- 4
+- 14
+- 10
+- 13
+- 5
+- 16
+- 12
+- 16
+- 6
+- 18
+- 14
+- 19
+- 7
+- 20
+- 16
+- 25
+- 7
+- 24
+- 20
+- 31
+- 7
+- 26
+- 24
+- 40
+- 7
+- 26
+- 30
+- 60
+- 7
+- 26
+- 30
+From level 7 onward, gems are also placed away from the bottom and right edges, so they can no longer be pushed off with a single clear. The numbers stop growing at around level 40; after that, levels stay at full difficulty with a new board every time, up to level 999.
+
+#### Stars
+Each won level awards one to three stars, based on how many moves you used compared with the solver's par:
+- 3 stars: finish within par.
+- 2 stars: finish within twice par.
+- 1 star: any win.
+Winning a level unlocks the next one, so you can always come back later for the missing stars.
+
+#### Five tips for three stars
+- Plan the direction first. Decide for each gem whether it leaves through its own line, through the right edge (row clears) or through the bottom edge (column clears).
+- Group gems by exit. Two gems near the right edge can both leave on the same row clear. Line them up and save moves.
+- Every clear moves every gem. A row clear helps all right-side gems at once. Count how many gems each clear brings closer to an edge.
+- Do not over-fill. Moves that clear nothing still count toward your total. Prefer pieces that complete a line.
+- Stuck? Use a hint. Where hints are available, you can watch a short ad for a hint that shows a good next move.
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## All 24 Kerslide pieces, their odds and how to place them
+Source: https://kerslide.com/guides/pieces.html
+Kerslide › Guides › Pieces
+
+### All 24 pieces: odds and placement
+Kerslide deals 24 different pieces with fixed odds. Knowing which ones come often, and where they fit, makes every hand easier.
+▶ Play free In your browser · no download · no sign-up
+Kerslide uses 24 pieces. Pieces never rotate in your hand: every rotation is its own piece, with its own chance of appearing. This guide shows all of them, how often each is dealt, and where each one is most useful.
+
+#### How pieces are dealt
+You hold three pieces at a time and can place them in any order. When all three are used, a new hand of three is dealt. Each piece is drawn at random, but not with equal odds: larger and more awkward shapes are weighted so the game stays fair. The weights are fixed and the same for every player.
+There is one fairness guarantee: every new hand contains at least one piece that fits somewhere on the board . If a random hand would contain no playable piece, one of its pieces is swapped for one that fits. A game can still end when your remaining pieces no longer fit, but you are never dealt a hand that is dead on arrival.
+
+#### All 24 pieces
+
+#### Odds by family
+- Single block
+- 1
+- 1.5%
+- Two-block lines
+- 2
+- 6.0%
+- Three-block lines
+- 2
+- 3
+- 9.0%
+- Four-block lines
+- 2
+- 4
+- 11.9%
+- 2×2 square
+- 1
+- 4
+- 6.0%
+- L shapes (4 blocks)
+- 4
+- 17.9%
+- Big corners (5 blocks)
+- 4
+- 5
+- 11.9%
+- T shapes (4 blocks)
+- 4
+- 17.9%
+- S and Z shapes (4 blocks)
+- 4
+- 17.9%
+More than four out of five pieces (84%) have four or more blocks, so planning for long lines and L shapes pays off far more than planning for single blocks, which appear only about once every 67 draws.
+
+#### Where each piece works best
+
+#### Single block
+The rarest piece and the most flexible. Save it for the one gap that finishes a line.
+
+#### Two-block lines
+Good fillers for narrow gaps at the end of a row or column.
+
+#### Three-block lines
+Common and easy to place. Ideal for finishing a line that is three short.
+
+#### Four-block lines
+Among the most common pieces. They need a straight run of four free cells, so keep long open lanes, especially along the top and left.
+
+#### 2×2 square
+Needs a 2×2 hole. Pairs of half-built rows next to each other are the natural home for it.
+
+#### L shapes (4 blocks)
+Four rotations, each fairly common. They finish a line and start the neighbouring one in the same move.
+
+#### Big corners (5 blocks)
+The largest pieces, and the most dangerous on a crowded board. They can finish a row and a column at once, which also moves the board diagonally.
+
+#### T shapes (4 blocks)
+Fit into bumpy edges where a straight piece would not. Useful for repairing ragged lines.
+
+#### S and Z shapes (4 blocks)
+The awkward ones. Place them where a staircase edge already exists, or across two half-built lines.
+
+#### Three habits that make every hand easier
+- Keep a long lane open. Straight four-block pieces and the big corners are common. A free row or column along the top or left side is the safest home for them, and that is also where shifts create new space.
+- Place the hardest piece first. If a hand has a big corner and two small pieces, find a spot for the corner while the board still has room, then use the small pieces to finish lines.
+- Avoid single-cell holes. Only one piece in 67 fills a lone hole without help. Holes that are two or three cells long are much easier to close.
+For how pieces turn into points, see scoring and combos .
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## Kerslide scoring and combos: the exact numbers
+Source: https://kerslide.com/guides/scoring-and-combos.html
+Kerslide › Guides › Scoring and combos
+
+### Scoring and combos: the exact numbers
+Every point in Kerslide comes from two simple rules and two multipliers. Here they are, with examples you can check in your next game.
+▶ Play free In your browser · no download · no sign-up
+Kerslide's score is simple enough to work out in your head, and knowing the numbers changes which moves are worth making. This page lists every rule with worked examples. The numbers are taken straight from the game's configuration.
+
+#### The formula
+Each placement earns two kinds of points:
+- Placement points: 1 point for every block in the piece you place. A single block is worth 1, a 2×2 square is worth 4, the large five-block corner is worth 5.
+- Clear points: 100 points per cleared line, multiplied by a multi-line bonus (for clearing several lines with one piece) and by a combo bonus (for clearing on consecutive placements).
+Placement points are small. Almost all of a good score comes from clears, and especially from the two multipliers.
+
+#### Multi-line bonus
+Clearing several lines with a single piece is worth much more than clearing them one at a time. Rows and columns both count as lines.
+- 1
+- 100%
+- 100
+- 2
+- 150%
+- 300
+- 3
+- 200%
+- 600
+- 4
+- 250%
+- 1000
+- 5
+- 300%
+- 1500
+Clearing two lines in one move gives 300 points instead of 200 for two separate single clears. Four lines at once are worth 1,000. Remember that the board still only shifts by one cell however many lines you clear (see the shift rule ), so big clears are not riskier than small ones.
+
+#### Combo bonus
+Every placement that clears at least one line extends your combo. Each step adds 50% to the clear points, up to a cap of 400%.
+- 1
+- 100%
+- 100
+- 2
+- 150%
+- 150
+- 3
+- 200%
+- 200
+- 4
+- 250%
+- 250
+- 5
+- 300%
+- 300
+- 6
+- 350%
+- 350
+- 7+
+- 400%
+- 400
+The combo is forgiving: it survives two placements that clear nothing . It only resets on the third non-clearing placement in a row. That grace period is the key to high scores, because it lets you place a piece or two to set up the next line without losing the multiplier.
+
+#### Worked examples
+- You place a 2×2 square and nothing clears: 4 points .
+- You place a three-block line that completes one row, and it is your first clear: 3 + 100 = 103 points .
+- Your next piece, an L of four blocks, clears two lines at once. Combo is now 2 (150%) and the multi-line bonus is 150%: 4 + 2 × 100 × 1.5 × 1.5 = 454 points .
+- You place one filler piece that clears nothing (combo kept, 1 of 2 grace moves used), then a three-block piece that clears three lines. Combo 3 (200%) and multi-line 200%: 3 + 3 × 100 × 2 × 2 = 1,203 points .
+
+#### What this means for strategy
+- Set up doubles. Two rows (or a row and a column) that are each one block short and can be finished by the same piece are worth building toward. The 150% bonus applies on top of any combo.
+- Protect the combo. Before placing a piece that clears nothing, count: if this is the third quiet placement in a row, the streak is gone. Sometimes a small, early clear is worth more than waiting for a big one.
+- Do not chase placement points. Choosing big pieces for their block count rarely matters; one extra clear is worth more than a whole game of placement points.
+- Survival first. A long game with steady clears beats a greedy setup that fills the board. See how to survive a crowded board .
+
+#### Levels mode scoring
+Levels mode does not use points. Each level is won by removing every gem, and you earn stars for finishing close to the level's par, the number of moves the game's solver needed. See the Levels strategy guide .
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## The Kerslide shift rule explained, with pictures
+Source: https://kerslide.com/guides/shift-rule-explained.html
+Kerslide › Guides › Shift rule
+
+### The shift rule, explained with pictures
+Every clear in Kerslide moves the whole board one cell. Here is exactly how it works, with before-and-after diagrams.
+▶ Play free In your browser · no download · no sign-up
+Most grid puzzles treat a cleared line as a reward: the space is free and nothing else changes. Kerslide adds one rule on top, and that rule decides almost every interesting moment in the game. This guide walks through it step by step with board pictures, so you can predict every move before you make it.
+
+#### The rule in one sentence
+After you place a piece, every complete row and every complete column is removed at the same time; then, if a row was removed, every remaining block moves one cell right , and if a column was removed, every remaining block moves one cell down . Blocks that move past the right or bottom edge are gone for good. There is no wraparound.
+
+#### Example 1: clearing a row
+In the first picture, the fifth row is one cell short. Dropping a single block into the gap (outlined) completes it.
+Three things happened at once. The full row disappeared. Every other block slid one cell to the right: the blue pair near the top moved from the third column to the fourth, and the green pair moved toward the right edge. The two red blocks were already in the last column, so the shift pushed them off the board. You removed eight blocks with the clear and two more with the shift, without ever filling their lines.
+
+#### Example 2: clearing a column
+Columns work the same way, only downward. Here the first column is waiting for one block in the bottom-left corner.
+The column clears, then the whole board drops by one row. The purple pair at the bottom was on the last row, so it falls off the board. The other blocks keep their shape and their position relative to each other; they are simply one row lower.
+
+#### Example 3: a row and a column together
+A single piece can complete a row and a column at the same time, for example an L shape that fills the last gap of the bottom row and the last gap of the right column. Both lines clear together, and the two shifts combine into one diagonal move: every survivor moves one cell right and one cell down. Anything on the right column or the bottom row afterwards leaves the board.
+
+#### How far does the board move?
+Always one cell, no matter how many lines you clear. Clearing three rows at once still moves the board one cell to the right, not three. That keeps the result easy to read: the board is either unchanged, one cell right, one cell down, or one cell diagonally down-right.
+
+#### Can a shift start a chain reaction?
+No. After a right shift the leftmost column is always empty, and after a down shift the top row is always empty, so a line can never be complete straight after a shift. Each placement resolves in exactly one clear and at most one move. You never have to worry about cascades you did not plan.
+
+#### Why the rule changes how you play
+- Blocks drift toward the bottom-right. Every clear nudges the board in that direction, so the top-left corner is where fresh space keeps appearing. Keep it open for long pieces.
+- The edges are exits. A block sitting on the right column leaves with the next row clear; one on the bottom row leaves with the next column clear. Awkward leftovers near those edges are temporary.
+- Half-built lines move. A row you are building keeps its shape when another row clears, because the whole board moves together. But a row clear shifts your nearly complete column one cell to the right, which can leave it next to a different set of blocks. Look at where your lines will be, not where they are.
+
+#### Use the preview
+While you drag a piece, Kerslide highlights the lines that would clear and shows the direction the board will move. When in doubt, hover the piece over a few spots and compare the results before letting go. There is no timer, so the extra second is free.
+Next: learn how clears turn into points in the scoring and combos guide , or see every piece in the piece guide .
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## Kerslide: how to survive when the board is full
+Source: https://kerslide.com/guides/survival-when-the-board-is-full.html
+Kerslide › Guides › Survive a full board
+
+### How to survive when the board is full
+Most games are lost in the last ten moves. These habits turn a crowded board into a long game.
+▶ Play free In your browser · no download · no sign-up
+Every Kerslide game ends the same way: the board fills up, and none of your pieces fit. The good news is that a crowded board is rarely as hopeless as it looks, because every clear also moves the board. This guide is about the moments when you have 40 or more blocks on the board and need to get out.
+
+#### 1. Count before you place
+On a crowded board, the order of your three pieces matters more than anything else. Before placing anything, check where each of the three can go. If only one spot fits your largest piece, place that piece there first, even if the move clears nothing. Small pieces can almost always be fitted somewhere afterwards; large ones often cannot.
+
+#### 2. Look for the line that is closest, not the one that looks best
+When the board is full, any clear helps twice: it removes a line, and the shift that follows moves the whole board away from the top-left, opening space where your next pieces will need it. A one-line clear that you can make now is worth more than a two-line clear you might make in three moves.
+
+#### 3. Use the edges as exits
+Blocks on the rightmost column leave the board with the next row clear. Blocks on the bottom row leave with the next column clear. If the right side is cluttered, aim for a row clear; if the bottom is cluttered, aim for a column clear. One well-chosen clear can remove a whole column of junk without you ever completing it. This is explained with pictures in the shift rule guide .
+
+#### 4. Do not fill the top-left corner
+Because shifts move everything right and down, the top-left corner is the only part of the board that gets emptier on its own. When you place a piece that does not clear anything, prefer the right and bottom parts of the board, and keep the top-left as your reserve space for the big pieces.
+
+#### 5. Avoid lone holes
+A single empty cell surrounded by blocks can only be filled by the single-block piece, which comes up roughly once every 67 draws (see the piece odds ). When choosing between two placements, pick the one that leaves gaps of two or three cells instead of isolated holes.
+
+#### 6. Remember the fairness rule
+Every new hand contains at least one piece that fits somewhere. That means if you can place your current three pieces, you are guaranteed at least one more move after them. The real danger is getting stuck in the middle of a hand, with one or two pieces left that fit nowhere. That is why you place the hardest piece first.
+
+#### 7. When nothing fits
+On some platforms, when no piece fits, you may be offered one extra piece in exchange for watching a short ad. That extra piece is always one that fits on your board. Use it to make a clear if you possibly can, because the shift is what creates lasting space.
+
+#### A short checklist
+- Which of my three pieces is hardest to place? Place it first.
+- Which line is closest to complete? Can any piece finish it now?
+- Is the right side or the bottom more cluttered? Clear the matching direction.
+- Am I leaving a one-cell hole? Choose another spot if possible.
+▶ Play Kerslide free
+More guides: all guides · How to play · Tips
+
+
+## Press kit — Kerslide
+Source: https://kerslide.com/press.html
+### Press kit
+Kerslide is a calm block puzzle with one twist: every line you clear shifts the whole board. Free to play in the browser at kerslide.com/play .
+Download everything (ZIP)
+
+#### Factsheet
+- Kerslide
+- Kerslide (solo developer)
+- 27 September 2026 (web)
+- kerslide.com/play · itch.io · Game Jolt
+- Web browser (phone, tablet, desktop). iOS, Android and Steam versions are in preparation.
+- Free
+- Puzzle, casual, single player
+- English, German, Spanish, French, Italian, Brazilian Portuguese, Polish, Turkish, Indonesian, Vietnamese, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese
+- About 4 MB before the first move; music streams in afterwards
+- Unity 6
+- support@kerslide.com
+
+#### Description
+Short (1 line): A calm block puzzle where every line you clear shifts the whole board.
+Long: Kerslide is a simple block puzzle with one memorable rule: CLEAR → SHIFT. Drag pieces onto an 8×8 board. Fill a row or a column and it clears — then every remaining block slides one step: right when you clear a row, down when you clear a column. Blocks pushed off the edge are gone. That one rule turns a familiar game into a planning puzzle: a clear can open space, break the line you were building, or set up your next move. Before you drop a piece, the board shows exactly which lines will clear and which way everything will move.
+
+#### Features
+- One new rule: clearing a row shifts the board right, clearing a column shifts it down
+- Live preview of every clear and shift before you drop a piece
+- No timers, no energy, no lives — play at your own pace
+- Daily challenge: the same start for everyone, every day
+- Stats and achievements
+- Colorblind-friendly shapes, high-contrast mode, reduced motion, larger text
+- No account needed; progress stays on the device
+
+#### Videos
+Real gameplay captured from the web version at normal speed. Captions, an end card and the game's own music and sound effects were added in editing.
+
+#### Screenshots
+Real game screens. Click for full resolution PNG.
+
+#### Logo and icon
+Colors: blue #2F6BFF, ink #1D2433, background #F4F6FA. Font: Nunito Bold (SIL Open Font License).
+
+#### Videos, streams and reviews
+You are welcome to stream Kerslide and to publish and monetize videos of it — no need to ask. A link to kerslide.com in the description is appreciated.
+
+#### Credits
+- Development: Kerslide
+- Music: "November Snow" by The Cynic Project and "Snowfall" by Kistol (both CC0, via OpenGameArt)
+- Sound effects: Kenney (CC0)
+
+#### Contact
+Interviews, review questions or custom assets: support@kerslide.com . Replies usually within 48 hours.
+
+
+## Support — Kerslide
+Source: https://kerslide.com/support.html
+### Support
+Questions, bugs or ideas? Email support@kerslide.com and tell us your device and game version (shown at the bottom of Settings).
+Ideas or something that annoyed you? Send feedback Community — a short form that prepares the email for you (also in the game: Settings → Send feedback).
+
+#### How do I play?
+Drag a piece onto the board. Fill a row or column to clear it — then everything slides one step (right for rows, down for columns). The game ends when none of your pieces fit.
+
+#### I bought Remove Ads on a new phone. How do I get it back?
+Open Settings → Restore purchases , signed in with the same Apple ID or Google account you used to buy.
+
+#### Will I lose my progress?
+Progress is saved on your device automatically, even mid-game. Uninstalling the game deletes it. On Steam, turn on Steam Cloud to keep it across computers.
+
+#### Can I turn off the music or vibration?
+Yes — Settings → Music, Sound effects, and Vibration.
+
+#### Accessibility
+Settings has colorblind shapes, high contrast, reduced motion and larger text. On PC and Mac you can play with just a keyboard or a controller.

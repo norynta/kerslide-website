@@ -24,3 +24,6 @@ Play: https://kerslide.com/play/ (about 4 MB to load, works on phone, tablet and
 - [Press kit](https://kerslide.com/press.html): screenshots, logo, facts
 - [Support](https://kerslide.com/support.html)
 - Localized home pages: https://kerslide.com/de/, /es/, /fr/, /it/, /pt/, /pl/, /tr/, /id/, /vi/, /ru/, /ja/, /ko/, /zh-hans/, /zh-hant/, /hi/ (Hindi), /ar/ (Arabic), /th/ (Thai), /bn/ (Bengali), /fil/ (Filipino), /ms/ (Malay), /nl/ (Dutch), /uk/ (Ukrainian). The game UI itself is in the 15 languages listed above; the extra home pages describe it in more languages.
+
+## Full text
+- [llms-full.txt](https://kerslide.com/llms-full.txt): the full text of the main pages and guides in one file
