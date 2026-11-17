@@ -8,7 +8,7 @@
   <link rel="canonical" href="https://kerslide.com/privacy.html">
   <link rel="icon" href="favicon.png">
   <link rel="stylesheet" href="style.css">
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "cc5aa4a870f94ee59250f1d7a1b84e34"}'></script><!-- End Cloudflare Web Analytics -->
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "cc5aa4a870f94ee59250f1d7a1b84e34"}'></script><!-- End Cloudflare Web Analytics --><script defer src="/ph.js"></script>
 </head>
 <body>
   <header class="wrap top">
@@ -74,9 +74,14 @@
     <h2>Technical information</h2>
     <p>The game is built with the Unity engine, which may send anonymous technical information about the device
       (such as device model, operating system and hardware capabilities) to Unity Technologies. App stores and Steam may
-      provide us with anonymous crash reports and aggregate statistics. The game itself uses no separate analytics service.
-      The kerslide.com website uses Cloudflare Web Analytics to count page visits; it sets no cookies and does not
-      track you across sites.</p>
+      provide us with anonymous crash reports and aggregate statistics. The mobile, desktop and web game send anonymous gameplay events (for example levels
+      started and finished, score, session length, errors and crashes) to our analytics provider, PostHog, tagged with a random
+      install id that is not linked to your name, email or any account. Where the law requires it, the game asks for your
+      permission first, and you can change your choice any time in Settings, then Privacy choices. We use this to find
+      bugs and make the game better, including A/B tests that give some players slightly different settings.
+      The kerslide.com website uses Cloudflare Web Analytics and PostHog to count page visits and clicks. It sets no
+      cookies, keeps a random id only while the tab is open, ignores browsers that send Do Not Track, and does not track
+      you across sites.</p>
 
     <h2>Children</h2>
     <p>Kerslide is a general-audience game and is not specifically directed at children under 13.
