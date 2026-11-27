@@ -1,0 +1,39 @@
+name: Auto-merge
+on:
+  workflow_run:
+    workflows: ["CI"]
+    types: [completed]
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+  checks: read
+  statuses: read
+jobs:
+  merge:
+    if: github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      PRS: ${{ join(github.event.workflow_run.pull_requests.*.number, ' ') }}
+      HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+    steps:
+      - run: |
+          for n in $PRS; do
+            j=$(gh pr view "$n" --json state,isDraft,mergeable,title,body,author,files,headRefOid)
+            [ "$(jq -r .state <<<"$j")" = OPEN ] || continue
+            [ "$(jq -r .headRefOid <<<"$j")" = "$HEAD_SHA" ] || { echo "#$n: newer commit"; continue; }
+            [ "$(jq -r .isDraft <<<"$j")" = false ] || { echo "#$n: draft"; continue; }
+            [ "$(jq -r .mergeable <<<"$j")" = MERGEABLE ] || { echo "#$n: not mergeable"; continue; }
+            who=$(jq -r .author.login <<<"$j")
+            if ! jq -e '.body | contains("Generated with [Claude Code]")' <<<"$j" >/dev/null && [[ ! "$who" =~ ^(zachhhhh|norynta-admin)$ ]]; then echo "#$n: not agent-built"; continue; fi
+            if jq -e '(.title + " " + .body) | test("WIP|do not merge|needs owner"; "i")' <<<"$j" >/dev/null; then echo "#$n: hold"; continue; fi
+            if jq -e '[.files[].path] | any(test("^\\.github/|pric|payment|stripe|checkout|legal|terms|privacy|refund"; "i"))' <<<"$j" >/dev/null \
+               && ! jq -e '.body | test("Zach approved"; "i")' <<<"$j" >/dev/null; then echo "#$n: needs Zach approved"; continue; fi
+            bad=$(gh api "repos/$GH_REPO/commits/$HEAD_SHA/check-runs?per_page=100" --jq '[.check_runs[] | select(.status != "completed" or (.conclusion | IN("success","skipped","neutral") | not))] | length')
+            st=$(gh api "repos/$GH_REPO/commits/$HEAD_SHA/status" --jq '[.statuses[] | select(.state != "success")] | length')
+            [ "$bad" = 0 ] && [ "$st" = 0 ] || { echo "#$n: checks not green"; continue; }
+            gh pr merge "$n" --squash --delete-branch && echo "#$n merged"
+          done
